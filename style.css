@@ -36,6 +36,7 @@ main img{
 h2{
     font-size: 30px;
     color: rgb(204, 84, 84);
+    margin: 40px 0 10px;
 }
 
 a{
@@ -66,5 +67,9 @@ footer a:hover{
 
     opacity: 0.5;
     background-color: transparent;
-
+}
+p.caption{
+    color: #999999;
+    font-style: italic;
+    margin-top: 0;
 }
